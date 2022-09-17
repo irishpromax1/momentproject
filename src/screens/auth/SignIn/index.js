@@ -14,7 +14,7 @@ const SignIn = () => {
     const [checked, setChecked] = useState(false);
 
     const onSignUp = () => {
-        console.log("Hello")
+        console.log("Bye")
     }
 
     return(
